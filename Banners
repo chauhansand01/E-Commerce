@@ -1,0 +1,7 @@
+{
+  "_id": "ObjectId",
+  "title": "Big Sale",
+  "image": "",
+  "link": "/shop",
+  "isActive": true
+}
