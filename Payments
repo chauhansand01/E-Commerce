@@ -1,0 +1,10 @@
+{
+  "_id": "ObjectId",
+  "user": "ObjectId",
+  "order": "ObjectId",
+  "paymentId": "",
+  "paymentMethod": "Stripe",
+  "amount": 1000,
+  "status": "Success",
+  "createdAt": "Date"
+}
