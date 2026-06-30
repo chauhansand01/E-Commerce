@@ -1,0 +1,6 @@
+mern-ecommerce/
+│
+├── client/
+├── server/
+├── README.md
+└── .gitignore
