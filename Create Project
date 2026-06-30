@@ -1,0 +1,5 @@
+mkdir mern-ecommerce
+cd mern-ecommerce
+
+mkdir client
+mkdir server
