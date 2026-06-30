@@ -1,0 +1,23 @@
+{
+  "_id": "ObjectId",
+  "name": "Apple iPhone 16",
+  "slug": "apple-iphone-16",
+  "description": "",
+  "price": 79999,
+  "discountPrice": 74999,
+  "stock": 120,
+  "brand": "Apple",
+  "category": "ObjectId",
+  "subCategory": "ObjectId",
+  "images": [
+    {
+      "url": "",
+      "public_id": ""
+    }
+  ],
+  "rating": 4.8,
+  "numReviews": 120,
+  "isFeatured": true,
+  "createdAt": "Date",
+  "updatedAt": "Date"
+}
