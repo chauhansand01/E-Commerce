@@ -1,0 +1,26 @@
+{
+  "_id": "ObjectId",
+  "user": "ObjectId",
+  "orderItems": [
+    {
+      "product": "ObjectId",
+      "quantity": 2,
+      "price": 500
+    }
+  ],
+  "shippingAddress": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "country": "",
+    "zipCode": ""
+  },
+  "paymentMethod": "COD",
+  "paymentStatus": "Paid",
+  "orderStatus": "Processing",
+  "itemsPrice": 1000,
+  "taxPrice": 100,
+  "shippingPrice": 50,
+  "totalPrice": 1150,
+  "createdAt": "Date"
+}
