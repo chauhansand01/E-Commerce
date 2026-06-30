@@ -1,0 +1,23 @@
+{
+  "_id": "ObjectId",
+  "name": "John Doe",
+  "email": "john@gmail.com",
+  "password": "hashedPassword",
+  "phone": "9876543210",
+  "avatar": "",
+  "role": "user",
+  "isVerified": true,
+  "address": [
+    {
+      "fullName": "",
+      "phone": "",
+      "street": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "zipCode": ""
+    }
+  ],
+  "createdAt": "Date",
+  "updatedAt": "Date"
+}
