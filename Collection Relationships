@@ -1,0 +1,19 @@
+User
+ ├── Cart
+ ├── Orders
+ ├── Reviews
+ ├── Wishlist
+ └── Notifications
+
+Category
+ └── SubCategory
+      └── Products
+
+Products
+ ├── Reviews
+ ├── Cart
+ ├── Orders
+ └── Wishlist
+
+Orders
+ └── Payments
