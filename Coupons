@@ -1,0 +1,8 @@
+{
+  "_id": "ObjectId",
+  "code": "WELCOME10",
+  "discount": 10,
+  "expiryDate": "Date",
+  "minAmount": 1000,
+  "isActive": true
+}
