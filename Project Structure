@@ -1,0 +1,29 @@
+mern-ecommerce/
+
+client/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── redux/
+│   ├── hooks/
+│   ├── context/
+│   ├── services/
+│   ├── assets/
+│   └── App.jsx
+│
+└── package.json
+
+server/
+
+├── controllers/
+├── middleware/
+├── models/
+├── routes/
+├── config/
+├── uploads/
+├── utils/
+├── server.js
+└── package.json
+
+README.md
