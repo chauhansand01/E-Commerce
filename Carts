@@ -1,0 +1,13 @@
+{
+  "_id": "ObjectId",
+  "user": "ObjectId",
+  "items": [
+    {
+      "product": "ObjectId",
+      "quantity": 2,
+      "price": 500
+    }
+  ],
+  "totalPrice": 1000,
+  "createdAt": "Date"
+}
