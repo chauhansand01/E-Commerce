@@ -1,0 +1,8 @@
+{
+  "_id": "ObjectId",
+  "user": "ObjectId",
+  "title": "",
+  "message": "",
+  "isRead": false,
+  "createdAt": "Date"
+}
