@@ -1,0 +1,24 @@
+server/
+│
+├── config/
+├── controllers/
+├── middleware/
+├── models/
+│   ├── User.js
+│   ├── Product.js
+│   ├── Category.js
+│   ├── SubCategory.js
+│   ├── Cart.js
+│   ├── Order.js
+│   ├── Review.js
+│   ├── Wishlist.js
+│   ├── Coupon.js
+│   ├── Payment.js
+│   ├── Banner.js
+│   └── Notification.js
+│
+├── routes/
+├── services/
+├── utils/
+├── uploads/
+└── server.js
